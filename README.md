@@ -1,5 +1,5 @@
 # starter-project
-A simple lite-server development environment.
+A simple lite-server angularjs dashboard development environment.
 
 ## Instructions
 1. run npm install 
