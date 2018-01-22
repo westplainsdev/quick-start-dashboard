@@ -1,4 +1,4 @@
-# starter-project
+# dashboard starter-project
 A simple lite-server angularjs dashboard development environment.
 
 ## Instructions
