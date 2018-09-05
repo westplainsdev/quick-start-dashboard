@@ -1,6 +1,8 @@
 # dashboard starter-project
 A simple lite-server angularjs dashboard development environment.
 
+![alt text](dashboard.PNG "Dashboard")
+
 ## Instructions
 1. run npm install 
 1. run npm start
