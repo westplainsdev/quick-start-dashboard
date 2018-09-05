@@ -8,4 +8,4 @@ A simple lite-server angularjs dashboard development environment.
 The application is configured to run on Port 3000
 
 ## Themes
-Most themes for the application from from bootswatch.com. The current theme being used is: https://bootswatch.com/3/cosmo/
+Most themes for the application come from from bootswatch.com. The current theme being used is: https://bootswatch.com/3/cosmo/
