@@ -11,3 +11,8 @@ The application is configured to run on Port 3000
 
 ## Themes
 Most themes for the application come from bootswatch.com. The current theme being used is: https://bootswatch.com/3/cosmo/
+
+AngularJS application running live on [Pluker][1]
+
+
+[1]:http://run.plnkr.co/preview/cjlpiqrup000l3b7bb01lo6tf/#/home
