@@ -15,4 +15,4 @@ Most themes for the application come from bootswatch.com. The current theme bein
 AngularJS application running live on [Pluker][1]
 
 
-[1]:http://run.plnkr.co/preview/cjlpiqrup000l3b7bb01lo6tf/#/home
+[1]:http://next.plnkr.co/plunk/QhxVk0WkcHEwavGw
