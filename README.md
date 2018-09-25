@@ -5,7 +5,7 @@ A simple lite-server AngularJS dashboard development environment.
 
 ## Instructions
 1. run npm install 
-1. run npm start
+1. npm run dev
 
 The application is configured to run on Port 3000
 
