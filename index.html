@@ -91,7 +91,13 @@
                 <li ui-sref-active="active"><a href="#" data-target-id="calender"><i class="fa fa-calendar fa-fw"></i>Calender</a></li>
                 <li ui-sref-active="active"><a href="#" data-target-id="library"><i class="fa fa-book fa-fw"></i> Library</a></li>
                 <li ui-sref-active="active"><a href="#" data-target-id="applications"> <i class="fa fa-pencil fa-fw"></i> Applications</a></li>
-                <li ui-sref-active="active"> <a ui-sref="about"><i class="fa fa-cogs fa-fw"></i>About</a></li>
+                <li role="presentation" ui-sref-active="active">
+					<a ui-sref="structure"><i class="fa fa-tasks fa-fw"></i>Structure</a>
+				</li>
+				<li role="presentation" ui-sref-active="active">
+					<a ui-sref="about"><i class="fa fa-question-circle fa-fw"></i>About</a>
+				</li>
+                <!-- <li ui-sref-active="active"> <a ui-sref="about"><i class="fa fa-cogs fa-fw"></i>About</a></li> -->
             </ul>
         </div>
         <div class="col-md-10 content">
@@ -119,6 +125,8 @@
     <script src="app/app.js"></script>
     <script src="app/home/homeCtrl.js"></script>
     <script src="app/about/aboutCtrl.js"></script>
+    <script src="app/services/service.js"></script>
+    <script src="app/structure/structureCtrl.js"></script>
 </body>
 
 </html>
