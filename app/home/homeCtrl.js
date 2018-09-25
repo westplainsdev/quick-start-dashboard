@@ -1,3 +1,4 @@
+
 (function() {
   'use strict';
 
@@ -35,5 +36,6 @@
   
   // this is the dependency injection of a service into the controller
   HomeCtrl.$inject = ['Service', '$timeout'];
+  // @ts-ignore
   angular.module('plunker').controller('Home.Ctrl', HomeCtrl);
 })();

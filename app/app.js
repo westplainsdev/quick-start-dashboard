@@ -1,4 +1,6 @@
+
 (function(){
+  // @ts-ignore
   angular.module('plunker', ['ui.router','ui.bootstrap','ngAnimate']).config(ConfigConfig)
 
     function ConfigConfig($stateProvider, $urlRouterProvider){

@@ -1,3 +1,4 @@
+
 (function() {
   // A service is a basic ES6 class.
   class Service {
@@ -14,5 +15,6 @@
   // The reason we have the angular.module last is becaue ES2015 Classes are
   // not hoisted so if the are referenced before we define them we get a
   // reference error.
+  // @ts-ignore
   angular.module('plunker').service('Service', Service);
 })();

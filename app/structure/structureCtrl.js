@@ -6,5 +6,6 @@
     }
   }
 
+  // @ts-ignore
   angular.module('plunker').controller('Structure.Ctrl', StructureCtrl);
 })();
