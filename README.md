@@ -1,4 +1,4 @@
-# Enterprise dashboard
+# quick-start-dashboard
 A simple lite-server AngularJS dashboard development environment.
 
 ![alt text](dashboard.PNG "Dashboard")
